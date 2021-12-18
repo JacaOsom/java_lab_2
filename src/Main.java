@@ -117,5 +117,4 @@ public class Main {
     public static int sumujLiczby(int zmiennaA, int zmiennnaB, int zmiennaC){
         return zmiennaA + zmiennnaB + zmiennaC;
     }
-
 }
